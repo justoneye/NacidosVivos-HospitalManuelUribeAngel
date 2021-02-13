@@ -14,7 +14,7 @@ La E.S.E Hospital Manuel Uribe Angel es una institución prestadora de servicios
 
 ### FICHA TÉCNICA
 <div align="center">
-    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/master/PPT/Diapositiva04.JPG" alt="Ficha Técnica para Estudio " width="100%"/>
+    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva04.JPG" alt="Ficha Técnica para Estudio " width="100%"/>
 </div>
 
 
