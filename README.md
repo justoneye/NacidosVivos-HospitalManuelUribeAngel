@@ -37,7 +37,7 @@ Específicos:
 
 ### PREGUNTAS 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/master/PPT/Diapositiva09.JPG" alt="Preguntas" width="100%"/>
+    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva09.JPG" alt="Preguntas" width="100%"/>
 </div>
 
 
@@ -53,33 +53,33 @@ Tras la implementación y ejecución de la solución planteada y el posterior an
 #### 1. ¿Cuáles son las características promedio de la madre gestante y el recién nacido?
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/master/PPT/Diapositiva27.JPG" alt="Pregunta 1" width="100%"/>
+    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva27.JPG" alt="Pregunta 1" width="100%"/>
 </div>
 
 
 #### 2. ¿Cuál es la diferencia de desempeño entre el primer y segundo test de Apgar?
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/master/PPT/Diapositiva28.JPG" alt="Pregunta 2" width="100%"/>
+    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva28.JPG" alt="Pregunta 2" width="100%"/>
 </div>
 
 #### 3. ¿Existe una relación entre la edad de las madres y los embarazos prematuros?
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/master/PPT/Diapositiva29.JPG" alt="Pregunta 3" width="100%"/>
+    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva29.JPG" alt="Pregunta 3" width="100%"/>
 </div>
 
 
 #### 3. ¿Existe una relación entre la edad de las madres y los embarazos prematuros?
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/master/PPT/Diapositiva29.JPG" alt="Pregunta 3" width="100%"/>
+    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva29.JPG" alt="Pregunta 3" width="100%"/>
 </div>
 
 #### 4. De 200 embarazos en un mes determinado, ¿cuántos serán de madres gestantes de 21 años o menores?
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/master/PPT/Diapositiva30.JPG" alt="Pregunta 4" width="100%"/>
+    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva30.JPG" alt="Pregunta 4" width="100%"/>
 </div>
 
 Pendiente:  0.23290013053335476
@@ -91,7 +91,7 @@ array([54.5228983])
 #### 5. ¿Se puede predecir el peso de un recién nacido según su tiempo de gestación y su talla?
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/master/PPT/Diapositiva31.JPG" alt="Pregunta 5" width="100%"/>
+    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva31.JPG" alt="Pregunta 5" width="100%"/>
 </div>
 
 Pendiente:  116.2127800441558
@@ -115,5 +115,5 @@ Tras la implementación y ejecución de la solución planteada y el posterior an
 ### Referencias 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/master/PPT/Diapositiva39.JPG" alt="Referencias" width="100%"/>
+    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva39.JPG" alt="Referencias" width="100%"/>
 </div>
