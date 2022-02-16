@@ -1,9 +1,15 @@
 # Análisis de Estadísticas de Nacidos Vivos del Hospital Manuel Uribe Ángel en Envigado, Antioquia
 ## (Aplicación de Metodología CRISP-DM)
 _Presentado por [Pilar Camargo Márquez](https://www.linkedin.com/in/pilarcamargo/) (1201656) y [Andrés Lindarte Niño](https://www.linkedin.com/in/andr%C3%A9s-lindarte-709876113/) (1201397)_
+<br/>
+ELECTIVA: Big Data / [Ing. Marcela Mejía](https://www.umng.edu.co/documents/20127/0/MARCELA+MEJIA.pdf/68fee29d-ffa5-de8f-4254-af01df420479?t=1599703431196)
+<br/>
 Ingeniería en Multimedia
+<br/>
 Facultad de Ingeniería
+<br/>
 Universidad Militar Nueva Granada
+<br/>
 Bogotá D.C., Colombia
 
 
@@ -26,6 +32,7 @@ Teniendo en cuenta los parámetros de selección de la base de datos (dimensión
 
 ### OBJETIVOS
 General: Identificar las condiciones de salud que influyen en el número de Nacidos Vivos del Hospital Manuel Uribe Ángel del municipio de Envigado, Antioquia.
+<br/>
 Específicos:
 - Indagar sobre posibles relaciones entre datos que puedan ayudar al Hospital a mostrar el panorama actual de las condiciones de salud que pueden influir en el número de nacidos vivos y su calidad de vida.
 - Intentar predecir posibles escenarios que permitan al Hospital hacer planes de acción y contingencia para determinadas situaciones de riesgo en la salud neonatal.
@@ -82,10 +89,13 @@ Tras la implementación y ejecución de la solución planteada y el posterior an
     <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva30.JPG" alt="Pregunta 4" width="100%"/>
 </div>
 
-Pendiente:  0.23290013053335476
+_Pendiente:  0.23290013053335476
+<br/>
 Intercepción:  7.942872191815312
+<br/>
 array([54.5228983])
-0.8359589089188763
+<br/>
+0.8359589089188763_
 
 
 #### 5. ¿Se puede predecir el peso de un recién nacido según su tiempo de gestación y su talla?
@@ -94,10 +104,13 @@ array([54.5228983])
     <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva31.JPG" alt="Pregunta 5" width="100%"/>
 </div>
 
-Pendiente:  116.2127800441558
+_Pendiente:  116.2127800441558
+<br/>
 Intercepción:  -5202.7233875116735
+<br/>
 array([2657.39729424])
-0.6699870584973598
+<br/>
+0.6699870584973598_
 
 
 
