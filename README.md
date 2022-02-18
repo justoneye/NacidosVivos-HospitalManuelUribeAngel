@@ -1,8 +1,6 @@
 # Análisis de Estadísticas de Nacidos Vivos del Hospital Manuel Uribe Ángel en Envigado, Antioquia
 ### (Aplicación de Metodología CRISP-DM)
-<br/>
-<br/>
-<br/>
+
 Universidad Militar Nueva Granada
 <br/>
 Ingeniería en Multimedia
@@ -10,10 +8,11 @@ Ingeniería en Multimedia
 Big Data / [Ing. Marcela Mejía](https://www.umng.edu.co/documents/20127/0/MARCELA+MEJIA.pdf/68fee29d-ffa5-de8f-4254-af01df420479?t=1599703431196)
 <br/>
 _Presentado por [Pilar Camargo Márquez](https://www.linkedin.com/in/pilarcamargo/) (1201656) y [Andrés Lindarte Niño](https://www.linkedin.com/in/andr%C3%A9s-lindarte-709876113/) (1201397)_
-
-
+<br/>
+<br/>
+<br/>
 ### INTRODUCCIÓN
-La E.S.E Hospital Manuel Uribe Angel es una institución prestadora de servicios de salud que, en garantía al derecho de acceso a la Información Pública (establecida en la Ley 1712 de 2014) y alineado a la política de Gobierno Digital de MinTIC, promueve la transparencia y el acceso a la información pública a través de la apertura, la reutilización de los datos públicos, el uso y la apropiación de las TIC. A continuación se comprueba el análisis del conjunto de datos que contiene los nacimientos reportados por el Hospital Manuel Uribe Ángel, con una cohorte de enero 2018 hasta septiembre 2019 del municipio de Envigado del departamento de Antioquia.
+La [E.S.E Hospital Manuel Uribe Angel](https://www.hospitalmua.gov.co/Paginas/default.aspx) es una institución prestadora de servicios de salud que, en garantía al derecho de acceso a la Información Pública [(establecida en la Ley 1712 de 2014)](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=56882) y alineado a la política de Gobierno Digital de MinTIC, promueve la transparencia y el acceso a la información pública a través de la apertura, la reutilización de los datos públicos, el uso y la apropiación de las TIC. A continuación se comprueba el análisis del conjunto de datos que contiene los nacimientos reportados por el Hospital Manuel Uribe Ángel, con una cohorte de enero 2018 hasta septiembre 2019 del municipio de Envigado del departamento de Antioquia.
 
 
 
