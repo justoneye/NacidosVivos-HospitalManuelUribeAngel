@@ -2,17 +2,13 @@
 ### (Aplicación de Metodología CRISP-DM)
 <br/>
 <br/>
-_Presentado por [Pilar Camargo Márquez](https://www.linkedin.com/in/pilarcamargo/) (1201656) y [Andrés Lindarte Niño](https://www.linkedin.com/in/andr%C3%A9s-lindarte-709876113/) (1201397)_
-<br/>
-ELECTIVA: Big Data / [Ing. Marcela Mejía](https://www.umng.edu.co/documents/20127/0/MARCELA+MEJIA.pdf/68fee29d-ffa5-de8f-4254-af01df420479?t=1599703431196)
+Universidad Militar Nueva Granada
 <br/>
 Ingeniería en Multimedia
 <br/>
-Facultad de Ingeniería
+Big Data / [Ing. Marcela Mejía](https://www.umng.edu.co/documents/20127/0/MARCELA+MEJIA.pdf/68fee29d-ffa5-de8f-4254-af01df420479?t=1599703431196)
 <br/>
-Universidad Militar Nueva Granada
-<br/>
-Bogotá D.C., Colombia
+_Presentado por [Pilar Camargo Márquez](https://www.linkedin.com/in/pilarcamargo/) (1201656) y [Andrés Lindarte Niño](https://www.linkedin.com/in/andr%C3%A9s-lindarte-709876113/) (1201397)_
 
 
 ### INTRODUCCIÓN
@@ -33,9 +29,10 @@ Teniendo en cuenta los parámetros de selección de la base de datos (dimensión
 
 
 ### OBJETIVOS
-General: Identificar las condiciones de salud que influyen en el número de Nacidos Vivos del Hospital Manuel Uribe Ángel del municipio de Envigado, Antioquia.
+#### General
+Identificar las condiciones de salud que influyen en el número de Nacidos Vivos del Hospital Manuel Uribe Ángel del municipio de Envigado, Antioquia.
 <br/>
-Específicos:
+#### Específicos:
 - Indagar sobre posibles relaciones entre datos que puedan ayudar al Hospital a mostrar el panorama actual de las condiciones de salud que pueden influir en el número de nacidos vivos y su calidad de vida.
 - Intentar predecir posibles escenarios que permitan al Hospital hacer planes de acción y contingencia para determinadas situaciones de riesgo en la salud neonatal.
 - Solucionar las preguntas planteadas a través de las diferentes técnicas de análisis y limpieza para análisis de bases de datos.
