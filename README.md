@@ -50,6 +50,9 @@ Identificar las condiciones de salud que influyen en el número de Nacidos Vivos
 
 ### APLICACIÓN DE METODOLOGÍA
 De acuerdo con las pautas del método CRISP-DM, esta fue la consecución de pasos para el desarrollo, ejecución y despliegue del proyecto:
+<div align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/CRISP-DM_Process_Diagram.png/800px-CRISP-DM_Process_Diagram.png" alt="CRISP-DM" width="50%"/>
+</div>
 
 
 
