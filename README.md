@@ -24,7 +24,7 @@ La [E.S.E Hospital Manuel Uribe Angel](https://www.hospitalmua.gov.co/Paginas/de
 
 
 ### ELECCIÓN DE BASE DE DATOS
-Teniendo en cuenta los parámetros de selección de la base de datos (dimensión mínima de 10 variables y 500 observaciones) así como su procedencia (de libre escogencia y orígen), además de una inspección acerca de la naturaleza de la mismas y las posibles preguntas de negocio a resolver; tras una búsqueda de posibles data frames alojadas en el sitio web gubernamental de Datos Abiertos (https://www.datos.gov.co) administrada por el Ministerio de Tecnologías de la Información y Comunicaciones (MinTIC), se ha seleccionado la base da datos “Nacidos Vivos en Hospital Manuel Uribe Angel”: https://www.datos.gov.co/Salud-y-Protecci-n-Social/Nacidos-Vivos-en-Hospital-Manuel-Uribe-Angel/udqu-ifxr.
+Teniendo en cuenta los parámetros de selección de la base de datos (dimensión mínima de 10 variables y 500 observaciones) así como su procedencia (de libre escogencia y orígen), además de una inspección acerca de la naturaleza de la mismas y las posibles preguntas de negocio a resolver; tras una búsqueda de posibles data frames alojadas en el sitio web gubernamental de [Datos Abiertos](https://www.datos.gov.co) administrada por el Ministerio de Tecnologías de la Información y Comunicaciones ([MinTIC](https://www.mintic.gov.co/)), se ha seleccionado la base da datos [“Nacidos Vivos en Hospital Manuel Uribe Angel”](https://www.datos.gov.co/Salud-y-Protecci-n-Social/Nacidos-Vivos-en-Hospital-Manuel-Uribe-Angel/udqu-ifxr).
 
 
 
