@@ -15,19 +15,19 @@ _Presentado por [Pilar Camargo Márquez](https://www.linkedin.com/in/pilarcamarg
 La [E.S.E Hospital Manuel Uribe Angel](https://www.hospitalmua.gov.co/Paginas/default.aspx) es una institución prestadora de servicios de salud que, en garantía al derecho de acceso a la Información Pública [(establecida en la Ley 1712 de 2014)](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=56882) y alineado a la política de Gobierno Digital de MinTIC, promueve la transparencia y el acceso a la información pública a través de la apertura, la reutilización de los datos públicos, el uso y la apropiación de las TIC. A continuación se comprueba el análisis del conjunto de datos que contiene los nacimientos reportados por el Hospital Manuel Uribe Ángel, con una cohorte de enero 2018 hasta septiembre 2019 del municipio de Envigado del departamento de Antioquia.
 
 
-
+<br/>
 ### FICHA TÉCNICA
 <div align="center">
     <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva04.JPG" alt="Ficha Técnica para Estudio " width="100%"/>
 </div>
 
 
-
+<br/>
 ### ELECCIÓN DE BASE DE DATOS
 Teniendo en cuenta los parámetros de selección de la base de datos (dimensión mínima de 10 variables y 500 observaciones) así como su procedencia (de libre escogencia y orígen), además de una inspección acerca de la naturaleza de la mismas y las posibles preguntas de negocio a resolver; tras una búsqueda de posibles data frames alojadas en el sitio web gubernamental de [Datos Abiertos](https://www.datos.gov.co) administrada por el Ministerio de Tecnologías de la Información y Comunicaciones ([MinTIC](https://www.mintic.gov.co/)), se ha seleccionado la base da datos [“Nacidos Vivos en Hospital Manuel Uribe Angel”](https://www.datos.gov.co/Salud-y-Protecci-n-Social/Nacidos-Vivos-en-Hospital-Manuel-Uribe-Angel/udqu-ifxr).
 
 
-
+<br/>
 ### OBJETIVOS
 #### General
 Identificar las condiciones de salud que influyen en el número de Nacidos Vivos del Hospital Manuel Uribe Ángel del municipio de Envigado, Antioquia.
@@ -40,14 +40,14 @@ Identificar las condiciones de salud que influyen en el número de Nacidos Vivos
 - Aplicar los conocimientos técnicos y analíticos adquiridos a lo largo del semestre.
 
 
-
+<br/>
 ### PREGUNTAS 
 <div align="center">
     <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva09.JPG" alt="Preguntas" width="100%"/>
 </div>
 
 
-
+<br/>
 ### APLICACIÓN DE METODOLOGÍA
 De acuerdo con las pautas del método CRISP-DM, esta fue la consecución de pasos para el desarrollo, ejecución y despliegue del proyecto:
 <div align="center">
@@ -55,7 +55,7 @@ De acuerdo con las pautas del método CRISP-DM, esta fue la consecución de paso
 </div>
 
 
-
+<br/>
 ### ANÁLISIS DE DATOS 
 Tras la implementación y ejecución de la solución planteada y el posterior análisis de resultados de los datos obtenidos en el data frame para esta aplicación se llegaron a las siguientes conclusiones:
 
@@ -110,7 +110,7 @@ array([2657.39729424])
 0.6699870584973598_
 
 
-
+<br/>
 ### CONCLUSIONES 
 Tras la implementación y ejecución de la solución planteada y el posterior análisis de resultados de los datos obtenidos en el data frame para esta aplicación se llegaron a las siguientes conclusiones:
 
@@ -129,6 +129,7 @@ Tras la implementación y ejecución de la solución planteada y el posterior an
 - Es importante reconocer la relevancia de esta clase de estudios, cuyo verdadero alcance final no podrá ser totalmente calculado pues esta clase de estudios pueden tener una repercusión considerable en el municipio.
 
 
+<br/>
 ### Referencias 
 
 <div align="center">
