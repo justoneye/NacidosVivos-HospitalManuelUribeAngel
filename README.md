@@ -72,18 +72,13 @@ Tras la implementación y ejecución de la solución planteada y el posterior an
     <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva28.JPG" alt="Pregunta 2" width="100%"/>
 </div>
 
-#### 3. ¿Existe una relación entre la edad de las madres y los embarazos prematuros?
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva29.JPG" alt="Pregunta 3" width="100%"/>
-</div>
-
 
 #### 3. ¿Existe una relación entre la edad de las madres y los embarazos prematuros?
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva29.JPG" alt="Pregunta 3" width="100%"/>
 </div>
+
 
 #### 4. De 200 embarazos en un mes determinado, ¿cuántos serán de madres gestantes de 21 años o menores?
 
@@ -118,12 +113,19 @@ array([2657.39729424])
 
 ### CONCLUSIONES 
 Tras la implementación y ejecución de la solución planteada y el posterior análisis de resultados de los datos obtenidos en el data frame para esta aplicación se llegaron a las siguientes conclusiones:
+
 - Como primera instancia y haciendo una revisión de los datos promedio obtenidos del estudio, podemos afirmar, a priori,  la ausencia de datos atípicos con respecto a las características de la madre y su recién nacido. Tampoco encontramos picos negativos en la diferencia del test de Apgar, lo cual nos da la certeza que, dentro de los primeros cinco minutos de vida, el bebé es apto para sobrevivir y desarrollarse separado de su madre, además de presentar un esquema de salud positivo. Teniendo en cuenta las condiciones promedio de un parto es posible hacer proyecciones tanto de las madres gestantes y sus recién nacidos como la composición familiar nuclear del municipio de Envigado cuya información podría repercutir incluso en la toma de decisiones administrativas y financieras del municipio.
+
 - Podemos afirmar, que las madres gestantes que presentaron embarazos prematuros, son madres cuyas edades están por debajo de los 26 años, que es el promedio de edades dado por el estudio. Lo cual nos indica que un embarazo a edad temprana (dentro de la población donde se realizó el estudio) es más proclive a ser prematuro.
+
 - La mayoría de las variaciones del test de Apgar ayudan a mostrar que la mayoría de los recién nacidos son viables, y aunque los cambios considerables son de tener cuidado y constante vigilancia se puede decir que las condiciones tanto el hospital como las familias son las suficientes para garantizar los primeros meses de vida.
+
 - Dados los datos que se poseían para trabajar, decidimos hacer una predicción muy próxima a los meses siguientes del estudio, que no se han realizado. Teniendo en cuenta que: Las madres jóvenes son más proclives a dar a luz prematuramente y el segundo dato con mayor número de casos de partos prematuros es veintiún (21) años, cuántos partos de madres gestantes, dentro de una población de doscientos (200) serán de veintiún años o menos. Esta relación nos dio un estimado de 54 embarazos prematuros con un score del 83%. 
+
 - Es menester y consideración del hospital incluir o depurar los datos que considere necesarios para completar o depurar esta base de datos.
+
 - Esta información es vital para el hospital pues de esta y su correcta manipulación y análisis pueden surgir diferentes propuestas para solucionar problemáticas y mejorar la toma de decisiones médicas, administrativas y de salubridad. Sin embargo, aunque el alcance de los datos y sus correlaciones sean meramente especulativas, también se corre un riesgo a la hora de decidir ampliar el rango de la información a suministrar, entre ellos el tiempo computacional de procesamiento, dificultades en la homologación de la información, tratamiento de datos personales, entre otros; esta decisión final debe tomarla el Hospital como organismo emisor de los mismos.
+
 - Es importante reconocer la relevancia de esta clase de estudios, cuyo verdadero alcance final no podrá ser totalmente calculado pues esta clase de estudios pueden tener una repercusión considerable en el municipio.
 
 
