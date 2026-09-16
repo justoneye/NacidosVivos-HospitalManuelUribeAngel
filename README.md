@@ -135,5 +135,3 @@ Tras la implementación y ejecución de la solución planteada y el posterior an
 <div align="center">
     <img src="https://raw.githubusercontent.com/justoneye/NacidosVivos-HospitalManuelUribeAngel/master/PPT/Diapositiva39.JPG" alt="Referencias" width="100%"/>
 </div>
-
-Esto es un cambio
